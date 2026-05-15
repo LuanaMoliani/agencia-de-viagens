@@ -1,3 +1,7 @@
+.offers {
+  margin-bottom: 104px;
+}
+
 .offers-cards {
   display: flex;
   flex-direction: column;
@@ -59,6 +63,7 @@
   background: url(../img/Card-manaus.svg) no-repeat;
   background-size: cover;
 }
+
 
 @media screen and (min-width: 768px) {
   .offers-cards {
